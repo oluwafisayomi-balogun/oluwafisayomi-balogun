@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Data Analytics projects
 - 🤔 I’m looking for help with ML & AI
 - 💬 Ask me about ...
-- 📫 How to reach me: [here] (twitter.com/_fisayo__)
+- 📫 How to reach me: [here](twitter.com/_fisayo__)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I don't watch TV
 -->
