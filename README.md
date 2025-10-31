@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Oluwafisayomi
 
-Currently a **Python Developer & Analyst**  but before that, I've been quite aa few things...
+Currently a **Python Developer & Analyst**  but before that, I've been quite a few things...
 
 🧬 **Anatomist by degree**,  
 📊 **Analyst by self-learning**,   
