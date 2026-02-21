@@ -24,9 +24,9 @@ Currently, I’m expanding into **software engineering**, moving from automation
 
 ## 📡 Contact me
 
-🌐 [Portfolio](https://fisayobalogun.carrd.co) – To be redesigned not soon  
-💼 [LinkedIn](https://www.linkedin.com/in/oluwafisayomi-balogun/) – Fastest way to reach me  
-📬 [Email](mailto:balogunfisayo23@gmail.com) – If LinkedIn doesn’t work, send a mail  
+🌐 [Portfolio](https://oluwafisayomi-balogun.github.io/)
+💼 [LinkedIn](https://www.linkedin.com/in/oluwafisayomi-balogun/)
+📬 [Email](mailto:balogunfisayo23@gmail.com)
 
 
 ---
