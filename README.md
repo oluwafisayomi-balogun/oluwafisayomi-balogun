@@ -5,7 +5,7 @@ Currently a **Python Developer & Analyst**  but before that, I've been quite a f
 🧬 **Anatomist by degree**,  
 📊 **Analyst by self-learning**,   
 💻 **Python Developer because I fell in love with the language**,  
-and now I’m **transitioning into Software Engineering**.
+and now I’m **transitioning into Software Engineering** - slowly but surely.
 
 I build **Python-based automation and data systems** that simplify how teams work with information.  
 
