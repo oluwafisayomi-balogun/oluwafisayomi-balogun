@@ -10,12 +10,4 @@ Open Source Contributions
 * [**Flexbox Froggy**](https://flexboxfroggy.com/) – Contributed a full **Yoruba language translation** to Flexbox Froggy, a global open-source game for learning CSS Flexbox. [View contribution](https://github.com/thomaspark/flexboxfroggy/pull/296#event-19307882952)
 
 
-<br>
-
-<br>
-🌐 [Portfolio](https://oluwafisayomi-balogun.github.io/)
-<br>
-📬 [Email](mailto:balogunfisayo23@gmail.com)
-
-
 *Do insaneeee stuff*
