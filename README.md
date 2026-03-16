@@ -12,7 +12,6 @@ Open Source Contributions
 
 <br>
 
-Contact me
 <br>
 🌐 [Portfolio](https://oluwafisayomi-balogun.github.io/)
 <br>
